@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: "courier";
+}
+
+h1 {
+  color: rgb(50,50,50);
+}
+
+button {
+  height: 2.5em;
+  width: 2.5em;
+}
+
+#res {
+  height: 2em;
+}
+
+#btn {
+  display: inline-flex;
+}
+
+#num {
+
+}
+
+#opr {
+
+}
+
+#acl {
+
+}
+
+#clc {
+  display: block;
+}

@@ -10,6 +10,12 @@ h1 {
 button {
   height: 2.5em;
   width: 2.5em;
+  background-color: #24A0ED;
+  border: none;
+  color: white;
+  padding-block: 5px;
+  margin: 2px;
+  border-radius: 50%;
 }
 
 #res {
@@ -20,18 +26,16 @@ button {
   display: inline-flex;
 }
 
-#num {
-
+#num button {
 }
 
-#opr {
-
+#opr button {
+  background-color: #DD7973;
 }
 
-#acl {
-
+#acl button {
+  background-color: #5adbb5;
 }
 
 #clc {
-  display: block;
 }
